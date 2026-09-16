@@ -1,4 +1,4 @@
-# Project X Launcher — downloads
+# Project X Launcher
 
 Builds of the Project X launcher. This repository holds no source, only
 releases, so the downloads stay publicly reachable while the engine stays
