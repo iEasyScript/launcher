@@ -10,8 +10,8 @@ Always-current links, which keep working across versions:
 
 | Platform | Link |
 |---|---|
-| Windows (x86-64) | [project-x-launcher-windows-x86_64.zip]( https://github.com/iEasyScript/launcher/releases/latest/download/project-x-launcher-windows-x86_64.zip) |
-| Linux (x86-64) | [project-x-launcher-linux-x86_64.tar.gz]([https://github.com/iEasyScript/launcher/releases/latest](https://github.com/iEasyScript/launcher/releases/latest/download/project-x-launcher-linux-x86_64.tar.gz)) |
+| Windows (x86-64) | [project-x-launcher-windows-x86_64.zip](https://github.com/iEasyScript/launcher/releases/latest/download/project-x-launcher-windows-x86_64.zip) |
+| Linux (x86-64) | [project-x-launcher-linux-x86_64.tar.gz](https://github.com/iEasyScript/launcher/releases/latest](https://github.com/iEasyScript/launcher/releases/latest/download/project-x-launcher-linux-x86_64.tar.gz)) |
 
 Or browse [all releases](https://github.com/iEasyScript/launcher/releases).
 
