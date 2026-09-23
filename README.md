@@ -32,3 +32,19 @@ Scripts come from two public repositories:
 [official-scripts](https://github.com/iEasyScript/official-scripts) and
 [community-scripts](https://github.com/iEasyScript/community-scripts). Writing
 your own starts at [script-api](https://github.com/iEasyScript/script-api).
+
+## Licence
+
+The binaries released from this repository are built from the Project X engine, which derives from
+[project-undercut/engine](https://gitlab.com/project-undercut/engine) and is licensed under the
+**GNU General Public License, version 3**. The full text is in [`LICENSE`](LICENSE).
+
+**Corresponding Source** for every binary released here:
+
+| Part | Source |
+|---|---|
+| engine jar, supervisor, native bootstrap, launcher | <https://github.com/iEasyScript/engine> |
+| the `re-resources` data the engine builds against | <https://github.com/iEasyScript/reclass-data> |
+
+Both are public and free to obtain from the same place as the downloads, which is how GPLv3 §6(d) asks
+for it. Release tags match the engine's, so the source for any given build is the source at that tag.
